@@ -1,6 +1,6 @@
 # Data Science Portfolio
 #### Win Nawat Suvansinpan
-Listed here are my work on various topics related to data science. Each project is its own repository which can be accessed via their respective links.
+Here are my work on various topics related to data science. Each project is its own repository which can be accessed via their respective links.
 
 ## Predictive Models
 ### predicting bugfixtime
@@ -29,7 +29,7 @@ This project explores the compromised password dataset without actually revealin
 [github repository](https://github.com/winnawat/pwned-pass-proj)  
 [notebook](https://github.com/winnawat/pwned-pass-proj/blob/master/report-notebook/pwned-passwords-final-report.ipynb)
 
-## Implementing Statistical Learning
+## Statistical Learning Concepts
 ### coding logistic regression from scratch
 `logistic regression` `statistical learning` `gradient descent`  
 This project puts the concept of logistic regression into code. Here, logistic regression with L2 regularization is coded from scratch and packaged into an importable module called `winlogistic`. The gradient descent process used here is fast gradient descent with backtracking on the step size.  
