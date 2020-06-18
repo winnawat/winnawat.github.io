@@ -30,7 +30,7 @@ This project explores the compromised password dataset without actually revealin
 [notebook](https://github.com/winnawat/pwned-pass-proj/blob/master/report-notebook/pwned-passwords-final-report.ipynb)
 
 ## Implementing Statistical Learning
-### Coding Logistic Regression From Scratch
+### coding logistic regression from scratch
 `logistic regression` `statistical learning` `gradient descent`  
 This project puts the concept of logistic regression into code. Here, logistic regression with L2 regularization is coded from scratch and packaged into an importable module called `winlogistic`. The gradient descent process used here is fast gradient descent with backtracking on the step size.  
 [github repository](https://github.com/winnawat/winlogistic)  
