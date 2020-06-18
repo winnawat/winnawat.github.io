@@ -26,12 +26,12 @@ This group project builds a tool that lets users estimate how long their machine
 ### pwned passwords
 `sensitive data` `exploratory data analysis` `large text files`  
 This project explores the compromised password dataset without actually revealing any password. The project attempts to explore the different types of passwords that are commonly used and visualize their proportions. For example, passwords that are consecutive strokes on the keyboard ('123qweasdzxc' or 'qwertyui'), passwords that are known to be vulnerable in a dictionary attack ('hello' or 'iloveyou') and passwords that are actually dates ('11072019' for November 7th 2019).  
-[github repository](https://github.com/winnawat/pwned-pass-proj)
+[github repository](https://github.com/winnawat/pwned-pass-proj)  
 [notebook](https://github.com/winnawat/pwned-pass-proj/blob/master/report-notebook/pwned-passwords-final-report.ipynb)
 
 ## Implementing Statistical Learning
 ### Coding Logistic Regression From Scratch
 `logistic regression` `statistical learning` `gradient descent`  
 This project puts the concept of logistic regression into code. Here, logistic regression with L2 regularization is coded from scratch and packaged into an importable module called `winlogistic`. The gradient descent process used here is fast gradient descent with backtracking on the step size.  
-[github repository](https://github.com/winnawat/winlogistic)
+[github repository](https://github.com/winnawat/winlogistic)  
 [notebook](https://github.com/winnawat/winlogistic/blob/master/polish-code-assignment.ipynb)
