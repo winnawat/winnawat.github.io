@@ -1,7 +1,7 @@
 # Data Science Portfolio
 #### Win Nawat Suvansinpan
 Here is my work on various topics related to data science. Each project is its own repository which can be accessed via their respective links.  
-[github](https://github.com/winnawat)
+[my github](https://github.com/winnawat)
 
 ## Predictive Models
 ### predicting bugfixtime
@@ -13,7 +13,12 @@ This project aims to predict the time taken to fix a bug given the information a
 ## Clustering Problems
 ### identifying hearthstone card packages
 `k-means` `TSNE` `dimensionality reduction` `PCA` `data visualization`  
-This project looks at a dataset of Hearthstone decks. The decks are clustered based on their card compositions. Clustering the decks highlights the subtle variants within an archetype. The cards are clustered based on the decks they are included in. Clustering the cards reveals which cards are usually included with each other, hence implying that they synergize well. This is called a 'package.' Knowing the packages in Hearthstone can help to highlight effective deckbuilding options.  
+This project looks at a dataset of Hearthstone decks.
+
+- The decks are clustered based on their card compositions. Clustering the decks highlights the subtle variants within an archetype.
+- The cards are clustered based on the decks they are included in. Clustering the cards reveals which cards are usually included with each other, hence implying that they synergize well. This is called a 'package.' Knowing the packages in Hearthstone can help to highlight effective deckbuilding options. 
+
+The clusters are also visualized using dimensionality reduction techniques.  
 [github repository](https://github.com/winnawat/hearthstone-card-package)  
 [notebook-analysis](http://nbviewer.jupyter.org/github/winnawat/hearthstone-card-package/blob/master/hs-package-kmeans.ipynb)  
 [notebook-visualizations](http://nbviewer.jupyter.org/github/winnawat/hearthstone-card-package/blob/master/hs-package-viz.ipynb)
@@ -32,7 +37,7 @@ This project explores the compromised password dataset without revealing a singl
 - passwords that are known to be vulnerable in a dictionary attack ('hello' or 'iloveyou')
 - numeric passwords that are actually dates ('11072019' for November 7th 2019).
 
-By generating the passwords in these categories and compare them to the dataset, we can visualize their proportions.
+By generating the passwords in these categories and compare them to the dataset, we can visualize their proportions.  
 [github repository](https://github.com/winnawat/pwned-pass-proj)  
 [notebook](https://github.com/winnawat/pwned-pass-proj/blob/master/report-notebook/pwned-passwords-final-report.ipynb)
 
