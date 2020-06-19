@@ -18,8 +18,7 @@ This project looks at a dataset of Hearthstone decks.
 - The decks are clustered based on their card compositions. Clustering the decks highlights the subtle variants within an archetype.
 - The cards are clustered based on the decks they are included in. Clustering the cards reveals which cards are usually included with each other, hence implying that they synergize well. This is called a 'package.' Knowing the packages in Hearthstone can help to highlight effective deckbuilding options. 
 
-The clusters are also visualized using dimensionality reduction techniques.  
-<img src="https://github.com/winnawat/hearthstone-card-package/blob/master/cluster-partition.jpg">  
+The clusters are also visualized using dimensionality reduction techniques.    
 [github repository](https://github.com/winnawat/hearthstone-card-package)  
 [notebook-analysis](http://nbviewer.jupyter.org/github/winnawat/hearthstone-card-package/blob/master/hs-package-kmeans.ipynb)  
 [notebook-visualizations](http://nbviewer.jupyter.org/github/winnawat/hearthstone-card-package/blob/master/hs-package-viz.ipynb)
