@@ -11,8 +11,8 @@ This project aims to predict the time taken to fix a bug given the information a
 [notebook](http://nbviewer.jupyter.org/github/winnawat/bugfixtime/blob/master/bugfixtime.ipynb)  
 
 ## Statistics
-### using statistics to determine if one team is better than the other in a competitive sports match.
-`R` `statistics` `experiment design` `hypothesis testing` `binomial distribution` `probability`
+### using statistics to determine if one team is better than the other in a competitive sports match
+`R` `statistics` `experiment design` `hypothesis testing` `binomial distribution` `probability`  
 This project sprouted from curiosity. Watching the 2020 Olympic games in Tokyo got me wondering if the rules of competitive sports have too much room for luck. That is, runner ups are actually as good as other competitors, just less lucky. By framing the problem this way, we can use statistics to help us comprehend and hopefully reduce uncertainty. At least on paper.
 [github repository](https://github.com/winnawat/may-the-best-team-win)  
 [notebook](https://github.com/winnawat/may-the-best-team-win/blob/main/case_badminton.pdf)  
